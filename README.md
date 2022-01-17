@@ -9,6 +9,6 @@
 
 ## 更多玩法
 
-- github page
+- Github Page
 
 

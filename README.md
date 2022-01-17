@@ -9,6 +9,14 @@
 
 会匹配笔记中的 #tag
 
+### title
+
+目前默认是新建笔记+日期时间，格式为yyyy-MM-dd hh:mm
+
+### body
+
+笔记的全部
+
 ## 查看效果
 
 你可以前往本项目中的[Issues](https://github.com/it5200/flomoplus-GitNote/issues)中查看 
